@@ -60,4 +60,3 @@ while answer != 4:
   elif answer == 4:
     print()
     print('Goodbye, ' + name + '! Have a great day!')
-  
